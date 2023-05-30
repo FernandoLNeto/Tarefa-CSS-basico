@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 25px;
+    background-color: black;
+
+}
+
+/* crtl + A  -->> seleciona tudo*/
+/* Shift + Alt + F -->> formatação automatica*/
+
+header {
+    padding: 20px 10px 10px 600px;
+    border: 10px;
+    border-color: rgb(138, 54, 54);
+    border-style: dashed;
+    border-radius: 40px;
+    font-weight: bold;
+}
+
+
+main
+{
+    padding: 50px 10px 50px 40px;
+    border-bottom: 10px dashed rgb(138, 54, 54);
+
+}
+
+p{ 
+    font-size: 15px;
+}
+
+li{ 
+    font-size: 15px;
+}
+
